@@ -1,0 +1,37 @@
+/* Author: Kellie Hinrichs */
+.navTab{
+  background-color: lightgreen;
+  border-style: groove;
+}
+
+.switch{
+  text-decoration: none;
+  color: crimson;
+}
+
+body{
+  background-color: darkturquoise;
+}
+
+div.navTab:hover{
+  background-color: darkturquoise;
+}
+
+div p{
+  margin-right:40;
+  margin-left:40px;
+}
+
+#colorChange:hover{
+  background-color: mediumspringgreen;
+}
+
+.img{
+  width:800px;
+  height:500px;
+  margin-left:100px;
+}
+
+h1, h2, h3{
+  text-align: justify;
+}
